@@ -43,6 +43,7 @@ GEDCOM utilities that will ease the pain
 
 **Java**
 
+* [Gedcom](https://github.com/FamilySearch/Gedcom): Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j): gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore): To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
