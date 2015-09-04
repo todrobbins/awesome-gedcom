@@ -1,6 +1,6 @@
 # awesome-gedcom
 
-GEDCOM utilities that will ease the pain
+[GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) utilities that will ease the pain
 
 ### Convertors
 
