@@ -12,6 +12,7 @@
 
 * [GedcomRDF](https://github.com/BruceWhealton/GedcomRDF): Gedcom and Genealogy information in Semantic Web format, using RDF serialization format(s)
 * [gedcom-foaf](https://github.com/bricas/gedcom-foaf): Output FOAF files from Gedcom individuals and families
+* [gedcom2sem](https://github.com/jo-pol/gedcom2sem): Flexible conversion via RDF/TTL to KML/FOAF and other SPARQL queries using LOD
 
 **GEDCOM X**
 
