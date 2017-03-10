@@ -52,8 +52,6 @@
 
 * [gedcom.js](https://github.com/dcapwell/gedcom.js): Gedcom parser for JavaScript
 * [gedcom-stream](https://github.com/connrs/gedcom-stream): A node.js processor for GEDCOM files
-* [gedcomx-date-js](https://github.com/trepo/gedcomx-date-js): A GEDCOM-X Date Library for Javascript
-* [gedcomxjs](https://github.com/mmealling/gedcomxjs): A GEDCOM-X reader/writer for Javascript
 * [parse-gedcom](https://github.com/tmcw/parse-gedcom): A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
 
 **Objective-C**
@@ -69,7 +67,6 @@
 **Python**
 
 * [gedcompy](https://github.com/rory/gedcompy): Python library to parse and work with GEDCOM (geneology/family tree) files
-* [gedcomx-python](https://github.com/chrisworley/gedcomx-python): Python Libraries for GEDCOM X Processing
 * [python-gedcom](https://github.com/madprime/python-gedcom): Python module for parsing, analyzing, and manipulating GEDCOM files
 * [python-gedcom-parser](https://github.com/rootsdev/python-gedcom-parser): Python parser for GEDCOM 5.5 format
 * [simplepyged](https://github.com/dijxtra/simplepyged): A simple Python GEDCOM parser
