@@ -7,6 +7,7 @@
   - [GEDCOM X](#gedcom-x)
   - [JSON](#json)
   - [RDF](#rdf)
+  - [SQL](#sql)
   - [XML](#xml)
 - [Parsers](#parsers)
   - [.NET](#net)
@@ -38,12 +39,12 @@
 * [gedcom-foaf](https://github.com/bricas/gedcom-foaf) - Output FOAF files from Gedcom individuals and families
 * [gedcom2sem](https://github.com/jo-pol/gedcom2sem) - Flexible conversion via RDF/TTL to KML/FOAF and other SPARQL queries using LOD
 
-#### XML
-* [gedcomparser](https://github.com/alfredxiao/gedcomparser) - GEDCOM parser, convert an GEDCOM raw data file into XML
-
-**SQL**
+#### SQL
 
 * [gedcom-tools](https://github.com/ligurio/gedcom-tools)
+
+#### XML
+* [gedcomparser](https://github.com/alfredxiao/gedcomparser) - GEDCOM parser, convert an GEDCOM raw data file into XML
 
 ---
 
