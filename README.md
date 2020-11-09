@@ -3,6 +3,7 @@
 
 ## Contents
 - [Converters](#converters)
+  - [CSV](#csv)
   - [DOT](#dot)
   - [GEDCOM X](#gedcom-x)
   - [JSON](#json)
@@ -23,6 +24,10 @@
 - [License](#license)
 
 ## Converters
+
+### CSV
+
+* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
 
 ### DOT
 
