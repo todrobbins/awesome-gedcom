@@ -50,6 +50,9 @@
 
 ### Parsers
 
+#### Dart
+* [gedcom-dart](https://github.com/orestesgaolin/gedcom-dart) - Dart library to parse GEDCOM data
+
 #### .NET
 * [GEDCOM](https://github.com/prm9894/GEDCOM) - A .NET library that imports data from a .ged (GEDCOM) file
 
