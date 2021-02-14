@@ -20,6 +20,7 @@
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Scala](#scala)
 - [License](#license)
 
@@ -96,6 +97,9 @@
 * [gedcom](https://github.com/rbur004/gedcom) - Ruby Gedcom parser
 * [gedcom-ruby](https://github.com/binary011010/gedcom-ruby) - A Ruby library for easily doing custom, callback-based GEDCOM parsing
 * [ruby-gedcom-parser](https://github.com/mikefarmer/ruby-gedcom-parser) - A simple gedcom parser for ruby
+
+#### Rust
+* [rust-gedcom](https://github.com/pirtleshell/rust-gedcom) - Rust library for GEDCOM parsing, with optional serialization to JSON.
 
 #### Scala
 * [gedcom](https://github.com/davidmoten/gedcom) - Scala library to parse GEDCOM files (common genealogy format)
