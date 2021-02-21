@@ -2,7 +2,7 @@
 > [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) utilities that will ease the pain
 
 ## Contents
-- [awesome-gedcom ![Awesome](https://awesome.re)](#awesome-gedcom-)
+
   - [Contents](#contents)
   - [Converters](#converters)
     - [CSV](#csv)
