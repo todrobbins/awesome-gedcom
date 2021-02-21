@@ -3,6 +3,7 @@
 
 ## Contents
 
+- [awesome-gedcom ![Awesome](https://awesome.re)](#awesome-gedcom-)
   - [Contents](#contents)
   - [Converters](#converters)
     - [CSV](#csv)
@@ -18,10 +19,11 @@
       - [Clojure](#clojure)
       - [Go](#go)
       - [Java](#java)
-    - [JavaScript/Node.js](#javascriptnodejs)
+      - [JavaScript/Node.js](#javascriptnodejs)
       - [Objective-C](#objective-c)
       - [PHP](#php)
       - [Python](#python)
+      - [R](#r)
       - [Ruby](#ruby)
       - [Rust](#rust)
       - [Scala](#scala)
@@ -76,7 +78,7 @@
 * [gedcom4j](https://github.com/frizbog/gedcom4j) - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
-### JavaScript/Node.js
+#### JavaScript/Node.js
 * [family-tree-nodejs](https://github.com/woodbri/family-tree-nodejs) - Application for loading GEDCOM files and serving them on the web as navigable family trees
 * [gedcom.js](https://github.com/dcapwell/gedcom.js) - Gedcom parser for JavaScript
 * [gedcom-parser](https://github.com/thoughtsunificator/gedcom-parser) - A tiny GEDCOM parser
@@ -96,6 +98,10 @@
 * [python-gedcom](https://github.com/madprime/python-gedcom) - Python module for parsing, analyzing, and manipulating GEDCOM files
 * [python-gedcom-parser](https://github.com/rootsdev/python-gedcom-parser) - Python parser for GEDCOM 5.5 format
 * [simplepyged](https://github.com/dijxtra/simplepyged) - A simple Python GEDCOM parser
+
+#### R
+
+* [tidyged](https://jl5000.github.io/tidyged/) - An R package for handling GEDCOM files
 
 #### Ruby
 * [gedcom](https://github.com/rbur004/gedcom) - Ruby Gedcom parser
