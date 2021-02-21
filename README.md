@@ -1,4 +1,4 @@
-# awesome-gedcom [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# awesome-gedcom [![](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 > [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) utilities that will ease the pain
 
 ## Contents
