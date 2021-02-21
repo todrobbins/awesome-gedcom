@@ -2,27 +2,30 @@
 > [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) utilities that will ease the pain
 
 ## Contents
-- [Converters](#converters)
-  - [CSV](#csv)
-  - [DOT](#dot)
-  - [GEDCOM X](#gedcom-x)
-  - [JSON](#json)
-  - [RDF](#rdf)
-  - [SQL](#sql)
-  - [XML](#xml)
-- [Parsers](#parsers)
-  - [.NET](#net)
-  - [Clojure](#clojure)
-  - [Go](#go)
-  - [Java](#java)
-  - [Javascript/Node.js](#javascriptnodejs)
-  - [Objective-C](#objective-c)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-- [License](#license)
+- [awesome-gedcom ![Awesome](https://awesome.re)](#awesome-gedcom-)
+  - [Contents](#contents)
+  - [Converters](#converters)
+    - [CSV](#csv)
+    - [DOT](#dot)
+      - [GEDCOM X](#gedcom-x)
+      - [JSON](#json)
+      - [RDF](#rdf)
+      - [SQL](#sql)
+      - [XML](#xml)
+    - [Parsers](#parsers)
+      - [Dart](#dart)
+      - [.NET](#net)
+      - [Clojure](#clojure)
+      - [Go](#go)
+      - [Java](#java)
+    - [JavaScript/Node.js](#javascriptnodejs)
+      - [Objective-C](#objective-c)
+      - [PHP](#php)
+      - [Python](#python)
+      - [Ruby](#ruby)
+      - [Rust](#rust)
+      - [Scala](#scala)
+  - [License](#license)
 
 ## Converters
 
@@ -76,6 +79,7 @@
 ### JavaScript/Node.js
 * [family-tree-nodejs](https://github.com/woodbri/family-tree-nodejs) - Application for loading GEDCOM files and serving them on the web as navigable family trees
 * [gedcom.js](https://github.com/dcapwell/gedcom.js) - Gedcom parser for JavaScript
+* [gedcom-parser](https://github.com/thoughtsunificator/gedcom-parser) - A tiny GEDCOM parser
 * [gedcom-stream](https://github.com/connrs/gedcom-stream) - A node.js processor for GEDCOM files
 * [parse-gedcom](https://github.com/tmcw/parse-gedcom) - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
 
