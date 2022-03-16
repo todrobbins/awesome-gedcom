@@ -110,6 +110,7 @@
 
 ### Rust
 * [rust-gedcom](https://github.com/pirtleshell/rust-gedcom) - Rust library for GEDCOM parsing, with optional serialization to JSON.
+* [gedcomx-rs](https://github.com/ephraimkunz/gedcomx-rs/tree/main/gedcomx) - Rust library for GEDCOM X parsing, with serialization to / from XML and JSON.
 
 ### Scala
 * [gedcom](https://github.com/davidmoten/gedcom) - Scala library to parse GEDCOM files (common genealogy format)
