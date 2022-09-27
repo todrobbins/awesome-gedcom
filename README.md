@@ -28,7 +28,7 @@
     - [Rust](#rust)
     - [Scala](#scala)
   - [Visualization](#visualization)
-    - [TypeScript](#vis-typescript) 
+    - [TypeScript](#typescript) 
   - [License](#license)
 
 ## Converters
