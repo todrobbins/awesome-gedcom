@@ -84,6 +84,7 @@
 * [gedcom-parser](https://github.com/thoughtsunificator/gedcom-parser) - A tiny GEDCOM parser
 * [gedcom-stream](https://github.com/connrs/gedcom-stream) - A node.js processor for GEDCOM files
 * [parse-gedcom](https://github.com/tmcw/parse-gedcom) - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
+* [read-gedcom](https://github.com/arbre-app/read-gedcom) - A modern GEDCOM parser with type declarations
 
 ### Objective-C
 * [Gedcom-Framework](https://github.com/mikkelee/Gedcom-Framework) - Cocoa framework for parsing Gedcom data
