@@ -27,6 +27,8 @@
     - [Ruby](#ruby)
     - [Rust](#rust)
     - [Scala](#scala)
+  - [Visualization](#visualization)
+    - [TypeScript](#vis-typescript) 
   - [License](#license)
 
 ## Converters
@@ -71,7 +73,8 @@
 * [gedcom](https://github.com/geni/gedcom) - Clojure GEDCOM library
 
 ### Go
-* [gedcom](https://github.com/iand/gedcom) - Go package to parse GEDCOM files
+* [gedcom](https://github.com/elliotchance/gedcom) ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
+* [gedcom](https://github.com/iand/gedcom) ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
 
 ### Java
 * [Gedcom](https://github.com/FamilySearch/Gedcom) - Gedcom parsers
@@ -115,6 +118,12 @@
 
 ### Scala
 * [gedcom](https://github.com/davidmoten/gedcom) - Scala library to parse GEDCOM files (common genealogy format)
+
+## Visualization
+
+### TypeScript
+* [topola](https://github.com/PeWu/topola) - library for embedding genealogy tree visualizations on web pages
+* [topola-viewer](https://github.com/PeWu/topola-viewer) - interactive genealogy visualization
 
 ## License
 
