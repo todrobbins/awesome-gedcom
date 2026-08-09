@@ -13,6 +13,7 @@
     - [RDF](#rdf)
     - [SQL](#sql)
     - [XML](#xml)
+  - [Editors](#editors)
   - [Parsers](#parsers)
     - [Dart](#dart)
     - [.NET](#net)
@@ -60,6 +61,13 @@
 * [gedcomparser](https://github.com/alfredxiao/gedcomparser) - GEDCOM parser, convert an GEDCOM raw data file into XML
 
 ---
+
+## Editors
+
+* [Domorium for VS Code](https://marketplace.visualstudio.com/items?itemName=domorium.gedcom) - GEDCOM autocomplete, validation as you type, go to definition and safe XREF rename
+* [Domorium for JetBrains IDEs](https://plugins.jetbrains.com/plugin/33323-gedcom) - the same, for IntelliJ IDEA and the rest of the JetBrains platform
+* [Domorium for Obsidian](https://community.obsidian.md/plugins/domorium) - edit `.ged` files inside an Obsidian vault, on desktop and mobile
+* [Domorium Web](https://domorium.com) - validate and edit a GEDCOM file in the browser with nothing to install; the file is read locally and never uploaded
 
 ## Parsers
 
