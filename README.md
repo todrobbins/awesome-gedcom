@@ -36,6 +36,7 @@
 ### CSV
 
 * [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
+* [twineconvert](https://twineconvert.com/gedcom-to-csv) - In-browser GEDCOM to CSV converter. No install, no upload, files stay on your device. Preserves family relationships via FAM/INDI ID links and keeps fuzzy dates ("BEF 1850", "ABT JUN 1923") as strings instead of forcing ISO.
 
 ### DOT
 
@@ -46,6 +47,7 @@
 
 ### JSON
 * [GEDCOMToJSONConverter](https://github.com/PatKayongo/GEDCOMToJSONConverter) - Convert GEDCOM genealogy file to a JSON representation
+* [twineconvert](https://twineconvert.com/gedcom-to-json) - In-browser GEDCOM to JSON converter. Outputs hierarchical JSON with individuals, families, sources, and event references already linked by ID. Useful for feeding family-tree data into D3, React, or any web visualization without writing a parser.
 
 ### RDF
 * [GedcomRDF](https://github.com/BruceWhealton/GedcomRDF) - Gedcom and Genealogy information in Semantic Web format, using RDF serialization format(s)
