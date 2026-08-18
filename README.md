@@ -14,6 +14,7 @@
     - [SQL](#sql)
     - [XML](#xml)
   - [Editors](#editors)
+  - [Tools](#tools)
   - [Parsers](#parsers)
     - [Dart](#dart)
     - [.NET](#net)
@@ -70,6 +71,10 @@
 * [Domorium for JetBrains IDEs](https://plugins.jetbrains.com/plugin/33323-gedcom) - the same, for IntelliJ IDEA and the rest of the JetBrains platform
 * [Domorium for Obsidian](https://community.obsidian.md/plugins/domorium) - edit `.ged` files inside an Obsidian vault, on desktop and mobile
 * [Domorium Web](https://domorium.com) - validate and edit a GEDCOM file in the browser with nothing to install; the file is read locally and never uploaded
+
+## Tools
+
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
