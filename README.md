@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+*  [GedMend](https://caliberutilities.com/) - Windows desktop tool that reconciles two GEDCOM files before either one is modified: explainable match proposals you confirm one at a time, side-by-side conflict resolution, citation preservation, encoding-mismatch warnings, and a change report. Free to use; export is a one-time purchase. The output is always a new file.
 
 ## Parsers
 
