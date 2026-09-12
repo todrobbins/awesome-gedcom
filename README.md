@@ -76,6 +76,8 @@
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
+* [GEDCOM Tools](https://gedcom.tools/) - Browser-based validation, file recovery, duplicate finding and viewing for GEDCOM 5.5, 5.5.1 and 7.0. Free core tools with paid extras; browser tools process files locally, while optional vault and AI features have separate data-sharing controls.
+
 ## Parsers
 
 ### Dart
