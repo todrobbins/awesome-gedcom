@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [The Memory Palace GEDCOM reader](https://www.thememorypalace.ai/gedcom) - read a GEDCOM file in the browser and see its people, families, generations, oldest known ancestor and gaps; the file is read locally and never uploaded, no account
 
 ## Parsers
 
