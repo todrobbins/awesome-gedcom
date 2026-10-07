@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [HexMobius Family Charts](https://familyatlas.hexmobius.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_gedcom) - Browser tool that turns a GEDCOM 5.5/5.5.1/5.5.5 file into a printable A3/A2 ancestor poster PDF or overlapping A4 sheets; family records stay on the device. Free fictional example, paid export.
 
 ## Parsers
 
