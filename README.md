@@ -74,6 +74,7 @@
 
 ## Tools
 
+* [gene-archive](https://github.com/igormel81/gene_archive) - Family history website generator with GEDCOM import/export, interactive trees, source documents, maps and stories; optional browser editor. Python, MIT.
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
