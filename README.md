@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [genealogy-mcp](https://github.com/igormel81/genealogy-mcp) - Python MCP server for AI-assisted family history research: audits GEDCOM for impossible dates, possible duplicates and research gaps, with archive guides, name variants and evidence checks.
 
 ## Parsers
 
