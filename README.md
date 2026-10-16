@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [gedlint](https://github.com/pmontp19/gedlint) - GEDCOM 5.5.1 + 7.0 linter: CLI, GitHub Action and an in-browser web viewer that never uploads your file; categories, severities, safe `--fix` repairs and a baseline ratchet for adopting it on legacy trees.
 
 ## Parsers
 
