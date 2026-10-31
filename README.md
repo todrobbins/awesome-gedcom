@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [Shajjra](https://shajjra.com) - Online living family tree visualizer and genealogy archive modeling up to 45 continuous generations with consanguinity and DAG support.
 
 ## Parsers
 
