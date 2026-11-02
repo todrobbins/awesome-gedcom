@@ -74,6 +74,7 @@
 
 ## Tools
 
+* [Ancestral Fire GEDCOM tool](https://ancestral-fire.com/tools/gedcom) - Free browser tool to open a GEDCOM 5.x or 7.0 file or GEDZIP, check it against the GEDCOM 7.0 specification and make a GEDCOM 7 copy. No account, and the file stays in the browser.
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
