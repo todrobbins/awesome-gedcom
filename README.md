@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [Human Lineage](https://humanlineage.org) - Public genealogical graph of 50M+ historical people modelled on GEDCOM X (not classic GEDCOM).
 
 ## Parsers
 
