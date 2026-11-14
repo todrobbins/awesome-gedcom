@@ -90,6 +90,7 @@
 ### Go
 * [gedcom](https://github.com/elliotchance/gedcom) ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
 * [gedcom](https://github.com/iand/gedcom) ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
+* [gedcom-go](https://github.com/cacack/gedcom-go) ([@cacack](https://github.com/cacack/)) - library for decoding, validating, encoding, converting and merging GEDCOM 5.5, 5.5.1 and 7.0 files
 
 ### Java
 * [Gedcom](https://github.com/FamilySearch/Gedcom) - Gedcom parsers
