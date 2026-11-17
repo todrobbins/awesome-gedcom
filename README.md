@@ -75,6 +75,7 @@
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [gedcom-test-files](https://github.com/thememorypalace/gedcom-test-files) - Synthetic GEDCOM 5.5.1 and 7.0 files with documented faults (broken links, duplicate IDs, impossible dates, ANSEL, UTF-16, garbled UTF-8) for testing parsers and validators
 
 ## Parsers
 
