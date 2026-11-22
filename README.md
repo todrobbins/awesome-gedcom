@@ -38,6 +38,7 @@
 ### CSV
 
 * [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
+* [Treeily](https://treeily.com) - In-browser GEDCOM to Gramps CSV converter; the people, families, events and sources tables also export to CSV. The file is read locally and never uploaded.
 * [twineconvert](https://twineconvert.com/gedcom-to-csv) - In-browser GEDCOM to CSV converter. No install, no upload, files stay on your device. Preserves family relationships via FAM/INDI ID links and keeps fuzzy dates ("BEF 1850", "ABT JUN 1923") as strings instead of forcing ISO.
 
 ### DOT
@@ -46,9 +47,11 @@
 
 ### GEDCOM X
 * [gedcom5-conversion](https://github.com/FamilySearch/gedcom5-conversion) - Utilities for GEDCOM 5.5 to GEDCOM X Conversion
+* [Treeily](https://treeily.com) - In-browser converter between GEDCOM 5.5.1, 5.5.5 and 7, GEDZIP, GEDCOM X (JSON and XML) and Gramps, both ways. The file is read locally and never uploaded.
 
 ### JSON
 * [GEDCOMToJSONConverter](https://github.com/PatKayongo/GEDCOMToJSONConverter) - Convert GEDCOM genealogy file to a JSON representation
+* [Treeily](https://treeily.com) - In-browser GEDCOM to GEDCOM X JSON converter, and back. The file is read locally and never uploaded.
 * [twineconvert](https://twineconvert.com/gedcom-to-json) - In-browser GEDCOM to JSON converter. Outputs hierarchical JSON with individuals, families, sources, and event references already linked by ID. Useful for feeding family-tree data into D3, React, or any web visualization without writing a parser.
 
 ### RDF
@@ -62,6 +65,7 @@
 
 ### XML
 * [gedcomparser](https://github.com/alfredxiao/gedcomparser) - GEDCOM parser, convert an GEDCOM raw data file into XML
+* [Treeily](https://treeily.com) - In-browser GEDCOM to Gramps XML (.gramps), Gramps package with media (.gpkg) and GEDCOM X XML converter, and back. The file is read locally and never uploaded.
 
 ---
 
@@ -71,10 +75,12 @@
 * [Domorium for JetBrains IDEs](https://plugins.jetbrains.com/plugin/33323-gedcom) - the same, for IntelliJ IDEA and the rest of the JetBrains platform
 * [Domorium for Obsidian](https://community.obsidian.md/plugins/domorium) - edit `.ged` files inside an Obsidian vault, on desktop and mobile
 * [Domorium Web](https://domorium.com) - validate and edit a GEDCOM file in the browser with nothing to install; the file is read locally and never uploaded
+* [Treeily](https://treeily.com) - edit the people, families, events, sources and facts of a GEDCOM file in the browser and save it as GEDCOM 5.5.1 or 7 in the dialect of the program it goes to; the file is read locally and never uploaded
 
 ## Tools
 
 * [AncestryLLM](https://github.com/sodejm/AncestryLLM) - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [Treeily](https://treeily.com) - In-browser GEDCOM toolbox: repair files that will not open, find duplicates and impossible dates, merge, split and compare files, standardize places and dates, privatize or anonymize living people. The file is read locally and never uploaded.
 
 ## Parsers
 
@@ -139,6 +145,7 @@
 ### TypeScript
 * [topola](https://github.com/PeWu/topola) - library for embedding genealogy tree visualizations on web pages
 * [topola-viewer](https://github.com/PeWu/topola-viewer) - interactive genealogy visualization
+* [Treeily](https://treeily.com) - interactive family tree, descendant, ancestor, hourglass, fan and timeline charts, and a map of places and moves, from any GEDCOM file in the browser; nothing is uploaded
 
 ## License
 
